@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "626890062212",
+    "firebase_url": "https://savap-194610.firebaseio.com",
+    "project_id": "savap-194610",
+    "storage_bucket": "savap-194610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626890062212:android:9113935518434692",
+        "android_client_info": {
+          "package_name": "com.example.ezequielmapel.savap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626890062212-n836sfb01qm7st7o6kg9b1co3pds6u5k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626890062212-8ek4ugikei1ln13sdg08o5p5glfcjjnh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626890062212-3m2lqgjhmsemn02298h04m85ddipnu7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezequielmapel.savap",
+            "certificate_hash": "be4833145a4e9786a0eb03ee6a0181b7b0413f0f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Ts1Tj9F8Y0MLTNaU5NwKJI47HW4ZYBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626890062212-n836sfb01qm7st7o6kg9b1co3pds6u5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
